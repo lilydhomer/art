@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lily Homer's Portfolio</title>
+<link href="css/bootstrap-4.4.1.css" rel="stylesheet" type="text/css">
+<link href="untitled.css" rel="stylesheet" type="text/css">
+
+
+<column-set><column-unit slot="0" span="8"></column-unit><column-unit slot="1" span="4"></column-unit></column-set><br><column-set gutter="1.1rem" mobile-hide-empty="false" mobile-stack="true"><column-unit slot="0">
+
+<div class="intro">
+<h1 style="color:#023632;">Well, hi there. I’m Lily.</h1>
+
+<p style="color:#023632; font-size: 1.375rem; font-weight: normal;"><span style="--font-scale: 1.34; line-height: 1.7;"><strong>UX Designer</strong> <em>with an</em><strong> art, architecture, and communications</strong><em> background approaching design challenges with an eye for both 
+beauty and functionality,</em> <strong>prioritizing digital accessibility</strong> and leveraging the web to work for us all.</span></p></div>
+  
+</column-unit></column-set><column-set gutter="4.2rem" mobile-hide-empty="false" mobile-stack="true"><column-unit slot="0"><h1>Northwestern University Course Listing UX Improvement</h1></column-unit></column-set><b>
+My role</b>: User interviews and stakeholder interviews, definition and analysis, Figma prototypes, and user testing.<br>
+<br>
+Northwestern University’s McCormick School of Engineering has dozens of websites, sharing important information with students, faculty, staff, alumni, and parents daily. Staff reported struggling with the course listing interface and research revealed problems.&nbsp;<br>
+<br>
+<i>I am happy to talk about this project in person, but, due to NDA, I cannot publically share more information about it online</i><br><br>
+<span class="button-4"><a href="university-course-listing" rel="history">View Project 🔒</a><br>
+</span><br><br>
+<div style="text-align: center"><media-item class="zoomable" hash="O1964543263879586949823372883856" scale="69.4%"></media-item></div><column-set gutter="2rem" mobile-hide-empty="false" mobile-stack="true"><column-unit slot="0"></column-unit><column-unit slot="1"></column-unit><column-unit slot="2"></column-unit></column-set><br>
+<h2>Conceptual Work</h2><br>
+<column-set><column-unit slot="0"><div style="text-align: center"><h3><a href="bloomspace" rel="history">Environmental Consultancy Company Website Build</a></h3></div><div style="text-align: center"><media-item class="zoomable" hash="U1984115395976826138054597703568"></media-item><br><br>
+Bloomspace, a green space consulting company that transforms corporate spaces into green oases, needs a website that is engaging, informative, and easy to navigate.<br>
+<br>
+<span class="button-4">View Bloomspace Concept</span></div>
+</column-unit><column-unit slot="1"><div style="text-align: center"><h3><a href="stonewall" rel="history">Stonewall Columbus Community Center Website Redesign</a></h3></div><div style="text-align: center"><media-item class="zoomable" hash="K1984115396013719626202016806800"></media-item><br><br>
+Stonewall Columbus, a cornerstone of support and community to the Columbus, OH region needs a website that represents their dynamic and wide-ranging mission.<br>
+<br>
+<span class="button-4">View Stonewall Concept</span></div>
+</column-unit><column-unit slot="2"><div style="text-align: center"><h3><a href="department-of-energy" rel="history">US Department of Energy Website Interface Redesign</a></h3></div><div style="text-align: center"><media-item class="zoomable" hash="K1984115396032166370275726358416"></media-item><br><br>
+A federal government agency tasked with addressing energy challenges, including climate change and energy security requires a user-friendly interface and clear, high-quality information.</div><br><div style="text-align: center"><span class="button-4">View DOE Concept</span></div>
+</column-unit></column-set><br>
+<br>
+
+</body>
+</html>
